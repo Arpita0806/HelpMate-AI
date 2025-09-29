@@ -128,8 +128,8 @@ def answer_query(request: QueryRequest):
 ## **Project Setup**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/DeepenKumarSahoo/Mr.HelpMate_AI.git
-cd Mr.HelpMate_AI
+git clone https://github.com/Arpita0806/HelpMate-AI.git
+cd HelpMate-AI
 ```
 
 ### **2. Create a Virtual Environment**
